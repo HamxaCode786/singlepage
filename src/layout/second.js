@@ -6,7 +6,6 @@ import ToggleButton from "react-bootstrap/ToggleButton";
 import ToggleButtonGroup from "react-bootstrap/ToggleButtonGroup";
 import { useState } from "react";
 import Button from "react-bootstrap/Button";
-import { MDBDropdown, MDBDropdownMenu, MDBDropdownToggle, MDBDropdownItem } from 'mdb-react-ui-kit';
 
 
 const Second = () => {
